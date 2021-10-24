@@ -1,0 +1,27 @@
+{
+  "name": "seunghyeon_yeom_favourite-things",
+  "version": "1.0.0",
+  "description": "by Seunghyeon Yeom(0975764)",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyeon-Yeom/Seunghyeon_Yeom_Favourite-things.git"
+  },
+  "author": "Seunghyeon Yeom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hyeon-Yeom/Seunghyeon_Yeom_Favourite-things/issues"
+  },
+  "homepage": "https://github.com/Hyeon-Yeom/Seunghyeon_Yeom_Favourite-things#readme",
+  "keywords": [],
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.43.3"
+  }
+}
