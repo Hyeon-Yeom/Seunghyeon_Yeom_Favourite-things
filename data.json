@@ -1,0 +1,24 @@
+{
+    "Country, Rome": {
+        "Founded": "April 21, 753 BC",
+        "Location": "Capital of Italy",
+        "Top Sights": "Colosseum, Pantheon, Trevi Fountain, Roman Forum.",
+        "Description": "Personally, I love old things such as ancient places, languages, buildings, books, movies, and so on, and so forth. Rome in Italy is the place I would like to visit the most."
+    },
+
+    "Coffee Shop, Tim hortons": {
+        "Founded": "May 17, 1964, Hamilton, Canada",
+        "Headquarters": "Oakville",
+        "Founders": "Tim Horton, Ron Joyce",
+        "Homepage URL": "https://www.timhortons.com/",
+        "My Recommendation Drinks & Desserts": "Chai tea, Iced Cap, French Vanila, Americano, Timbits, Donuts"
+    },
+
+    "Movie & Music, Howl's Moving Castle": {
+        "Movie Director": "Hayao Miyazaki",
+        "Released Date": "June 10, 2005",
+        "Studio": "Studio Ghibli",
+        "A Main Composer": "A Japanese composer, Joe Hisaishi",
+        "Soundtrack URL": "Here is the link for the soundtrack 'Howl's Moving Castle' from the movie <Howl's Moving Castle: 'https://www.youtube.com/watch?v=NEH5AhPEpb8'"
+    }
+}
