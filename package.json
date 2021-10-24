@@ -17,5 +17,8 @@
     "url": "https://github.com/Hyeon-Yeom/Seunghyeon_Yeom_Favourite-things/issues"
   },
   "homepage": "https://github.com/Hyeon-Yeom/Seunghyeon_Yeom_Favourite-things#readme",
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
