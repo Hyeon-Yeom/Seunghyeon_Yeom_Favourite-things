@@ -19,6 +19,11 @@ package.json
 Readme.md
 
 ## Plans for FIP
+1. Install Npm as well as Npm packages.
+2. Install Gulp and Create a file.
+3. Figure out how to link gulp file, data.json file, and js file.
+4. Faced problem with .scss, Planning to take a look to link scss and css file.
+5. Planning to create portfolio page by using data.json and scss.
 
 ## MIT License
 Copyright ©2021, Seunghyeon Yeom
